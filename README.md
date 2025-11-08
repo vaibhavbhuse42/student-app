@@ -131,8 +131,10 @@ If everything is correct, your Java web application will be live! 🚀
 
 ## 🏗️ Architecture Diagram
 
+![](/image/javaa%20A%20digram.webp)
 
 ### 📊 CI/CD Architecture Flow
+![](/image/CICD%20pipline%20flow.png)
 ```bash
 ┌──────────────────────────┐
 │        Developer         │
@@ -167,9 +169,15 @@ If everything is correct, your Java web application will be live! 🚀
 ## 📸 Screenshots
 ### 🖥️ 1. Jenkins Dashboard
 
+![](/image/Screenshot%20(31).png)
+
 ### ⚙️ 2. Build Console Output
 
+![](/image/Screenshot%20(32).png)
+
 ### 🧾 3. Deployed Application on Tomcat
+
+![](/image/Screenshot%20(33).png)
 
 (Create a screenshots/ folder in your repo and upload these images)
 
